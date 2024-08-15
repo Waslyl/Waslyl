@@ -4,7 +4,6 @@
 - 👀 ・ I’m interested in Reverse Engineering, c#/c++ and JavaScript programation (still learning😃)
 - 🌱 ・ I’m currently learning Reverse Engineering and JavaScript (soon Python😎)
 - 📫 ・ You can contact me via discord: Waslyl https://discord.gg/galaxiafn-1141260363715854336
-- 😄 ・ Pronouns: Was👾
 - 🌎 ・  My Languages:
     🇫🇷 - French : Native
     🇺🇸 - English American (not Britsh) : Native
