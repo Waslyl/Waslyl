@@ -6,7 +6,7 @@
 - 📫 ・ You can contact me via discord: Waslyl https://discord.gg/galaxiafn-1141260363715854336
 - 🌎 ・  My Languages:
     🇫🇷 - French : Native
-    🇺🇸 - English American (not Britsh) : Native
+    🇺🇸 - English : Native
     🇩🇪 - Deutsch : Almost Native
     🇪🇸 - Español : Stop learning
 ```
