@@ -20,4 +20,4 @@
 ```
 
 ## 🔮・GalaxiaFN :
-https://discord.gg/galaxiafn-1141260363715854336
+https://dsc.gg/galaxiaftn
