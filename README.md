@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ```
 ⚡ ・ Fun fact: :
-    I'm 15 and I'm really kind and like to share ideas, if you have some don't hesitate to tell me😜
+    I'm 15, I'm really kind and like to share ideas. If you have some don't hesitate to tell me😜
 ```
 
 ## 🔮・GalaxiaFN :
