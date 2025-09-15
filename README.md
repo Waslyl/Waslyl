@@ -1,9 +1,9 @@
 ## 🧨・Waslyl README
 ```
 - 👋 ・ Hi, I’m @Waslyl
-- 👀 ・ I’m interested in Reverse Engineering, c#/c++ and JavaScript programation (still learning😃)
+- 👀 ・ I’m interested in Reverse Engineering, c#/c++ and JavaScript (still learning😃)
 - 🌱 ・ I’m currently learning Reverse Engineering and JavaScript (soon Python😎)
-- 📫 ・ You can contact me via discord: Waslyl https://discord.gg/galaxiafn-1141260363715854336
+- 📫 ・ You can contact me via discord: Waslyl
 - 🌎 ・  My Languages:
     🇫🇷 - French : Native
     🇺🇸 - English : Native
@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ```
 ⚡ ・ Fun fact: :
-    I'm 15, I'm really kind and like to share ideas. If you have some don't hesitate to tell me😜
+    I'm 16, I'm really kind and like to share ideas. If you have some don't hesitate to tell me😜
 ```
 
 ## 🔮・GalaxiaFN :
